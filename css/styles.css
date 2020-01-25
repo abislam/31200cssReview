@@ -19,8 +19,18 @@ li {
 
 .contentBox{ 
 	box-sizing: content-box; 
-	width: 98.5%;
+	width: 100%;
 	padding: 10px;
 	background: #444; 
 	text-indent: 20px; 
+}
+
+.campNou{
+	height: 1000px;
+	width: 100%;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
 }
