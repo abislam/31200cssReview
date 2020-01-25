@@ -1,9 +1,26 @@
+
+
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
 li {
-  display: inline;
+	display: inline;
+}
+
+.anchorDesign{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.contentBox{ 
+	box-sizing: content-box; 
+	width: 98.5%;
+	padding: 10px;
+	background: #444; 
+	text-indent: 20px; 
 }
