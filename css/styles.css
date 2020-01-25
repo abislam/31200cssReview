@@ -1,14 +1,17 @@
 
 
-ul {
+.ulNav {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
-li {
+.liNav {
 	display: inline;
 }
+
+
+
 
 .anchorDesign{
 	text-decoration: none;
@@ -45,3 +48,6 @@ body{
 	margin: 20px;
 }
 
+.navBar{
+
+}
