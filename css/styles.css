@@ -35,3 +35,13 @@ body{
 	padding: 0px;
 }
 
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	margin: 20px;
+}
+
